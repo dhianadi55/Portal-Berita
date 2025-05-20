@@ -148,9 +148,7 @@ Proyek ini dilisensikan di bawah MIT License.
 
 ## 📬 Kontak
 
-- Email: nama@example.com
-- LinkedIn: https://linkedin.com/in/username
-- Twitter: [@username](https://twitter.com/username)
+- Email: dhian.121140055@student.itera.ac.id
 
 ---
 
