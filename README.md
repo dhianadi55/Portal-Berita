@@ -5,17 +5,16 @@ Aplikasi agregator berita Indonesia berbasis web yang menampilkan berita terbaru
 ---
 
 ## 📜 Daftar Isi
-1. [Deskripsi](#deskripsi)  
-2. [Fitur](#fitur)  
-3. [Demo](#demo)  
-4. [Instalasi](#instalasi)  
-5. [Penggunaan](#penggunaan)  
-6. [Konfigurasi](#konfigurasi)  
-7. [Struktur Folder](#struktur-folder)  
-8. [Teknologi](#teknologi)  
-9. [Kontribusi](#kontribusi)  
-10. [Lisensi](#lisensi)  
-11. [Kontak](#kontak)
+1. [Deskripsi](#deskripsi)
+2. [Fitur](#fitur)
+3. [Instalasi](#instalasi)
+4. [Penggunaan](#penggunaan)
+5. [Konfigurasi](#konfigurasi)
+6. [Struktur Folder](#struktur-folder)
+7. [Teknologi](#teknologi)
+8. [Kontribusi](#kontribusi)
+9. [Lisensi](#lisensi)
+10. [Kontak](#kontak)
 
 ---
 
@@ -35,15 +34,6 @@ Portal Berita adalah aplikasi web yang mengumpulkan dan menampilkan berita-berit
 - 🌙 Dukungan tema (bisa dikembangkan)
 - 🔄 Data real-time dengan SWR (auto refresh)
 - 🛡️ Penanganan error & loading state
-
----
-
-## 🎥 Demo
-
-- **Live:** _(Belum tersedia, jalankan lokal)_
-- **Screenshot:**
-
-  ![Screenshot Home](./assets/screenshot-home.png)
 
 ---
 
@@ -151,5 +141,3 @@ Proyek ini dilisensikan di bawah MIT License.
 - Email: dhian.121140055@student.itera.ac.id
 
 ---
-
-=======
