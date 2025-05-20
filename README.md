@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📘 Portal Berita
 
 Aplikasi agregator berita Indonesia berbasis web yang menampilkan berita terbaru dari berbagai portal dengan autentikasi Google/GitHub.
@@ -155,6 +154,4 @@ Proyek ini dilisensikan di bawah MIT License.
 
 ---
 
-> **Catatan:**  
-> Proyek ini hanya untuk pembelajaran. Pastikan untuk tidak membagikan API key secara publik.# Portal-Berita
 =======
